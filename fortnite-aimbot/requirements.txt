@@ -1,0 +1,21 @@
+# Core dependencies
+opencv-python-headless==4.5.5.62
+tensorflow==2.10.0
+pynput==1.7.6
+numpy==1.21.5
+pyautogui==0.9.53
+mss==6.1.0
+Flask==2.2.2
+
+# Preserved from original
+opencv-python
+numpy
+pyyaml
+tqdm
+requests
+psutil
+
+# Removed Windows-specific packages
+# pywin32
+# onnxruntime_directml
+# dxcam
